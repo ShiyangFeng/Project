@@ -5,13 +5,13 @@
 
 ### Table of contents
 
-* [Self Introduction] (#selfintro)
+* [SelfIntroduction](#selfintro)
 * [Introduction](#introduction)
 * [Infographic](#infographic)
 
 ## selfintro
 
-[<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" />](https://www.linkedin.com/in/shiyangfeng/)
+[<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" alignment=center />](https://www.linkedin.com/in/shiyangfeng/)
 
 
 
