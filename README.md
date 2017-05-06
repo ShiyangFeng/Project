@@ -1,5 +1,6 @@
 <h1 align="center">
-	<img width="300" src="https://drive.google.com/open?id=0B39NTirW67BxNTdlQ0J1b0RJR2c" alt="Awesome">
+	<img width="300" src="https://awesome-tech.readthedocs.io/images/modern_data_scientist.png" alt="Awesome">
+	<p>image source: Marketingdistillery.com</p>
 	<br>
 	<br>
 </h1>
@@ -18,7 +19,12 @@
     
 ## selfintro
 
-[<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" aligned="center" />](https://www.linkedin.com/in/shiyangfeng/)
+<h1 align="center">
+	<img width="300" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" alt="Awesome" />
+	<p>See my <a href = "https://www.linkedin.com/in/shiyangfeng/">LinkedIn Profile</a></p>
+	<br>
+	<br>
+</h1>
 
 Hi there! My name is Shiyang Feng, welcome to my repo! I'm a recent Master graduate from NYU with a concentration on database technology, and also an alumini from General Assembly's Data Science Immersive program. 
 
