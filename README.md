@@ -1,4 +1,26 @@
-# Data Science is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<h1 align="center">
+	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+	<br>
+	<br>
+</h1>
+
+<br>
+<br>
+
+<p align="center">
+	<b><a href="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg"></a></b>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
+</p>
 
 
 *A repo for Shiyang Feng's data science projects*
