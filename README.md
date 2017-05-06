@@ -1,4 +1,4 @@
-# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Data Science is [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 *A repo for Shiyang Feng's data science projects*
@@ -11,9 +11,9 @@
     
 ## selfintro
 
-[<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" alignment="center" />](https://www.linkedin.com/in/shiyangfeng/)e
+[<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" aligned="center" />](https://www.linkedin.com/in/shiyangfeng/)
 
-Hi there! 
+Hi there! My name is Shiyang Feng, welcome to my repo! I'm a recent Master graduate from NYU with a concentration on database technology, and also an alumini from General Assembly's Data Science Immersive program. 
 
 
 
