@@ -12,6 +12,7 @@
 ## selfintro
 
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" /> 
+
 [<img src="https://brand.linkedin.com/etc/designs/linkedin/katy/global/clientlibs/img/default-share.png" width="150" />](https://www.linkedin.com/in/shiyangfeng/) 
 [<img src="http://www.logoeps.com/wp-content/uploads/2011/05/twitter_-logo.gif" width="150" />](https://twitter.com/ShiyangFeng)
 
