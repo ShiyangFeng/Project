@@ -15,12 +15,16 @@
 
 Click to see my [LinkedIn Profile](https://www.linkedin.com/in/shiyangfeng/)
 
-Hi there! My name is Shiyang Feng, welcome to my repo! I'm a recent Master graduate from NYU with a concentration on database technology, and also an alumini from General Assembly's Data Science Immersive program (Here's my [GA Profile](https://profiles.generalassemb.ly/shiyangfeng)). My major in college was General Finance, and what I learned had a little to do with data science. The first time that the word **data science** appear in my life was in high school, when I read from news that a company called [Netflix](http://www.netflixprize.com) was giving out $1 million for a more accurate recommendation engine powered by data science. But at that time, I didn't really feel like knowing more about it, because it was 'nerdy' to me back then, and finance is **the thing** for me. I started thinking about data science as one of my alternate career paths after the 2008 subprime crisis, which, to some extent, pushed me away from pursuing a career as a ~~pure~~ finance guy because of the highly streeful work environment and extremely low job security. Therefore, I took my time and thought about what I really wanted to do in my life, and I came up with an evaluation matrix for my dream job:
+Hi there! My name is Shiyang Feng, welcome to my repo! I'm a recent Master graduate from NYU with a concentration on database technology, and also an alumini from General Assembly's Data Science Immersive program (Here's my [GA Profile](https://profiles.generalassemb.ly/shiyangfeng)). 
+<br>
+My major in college was General Finance, and what I learned had a little to do with data science. The first time that the word **data science** appear in my life was in high school, when I read from news that a company called [Netflix](http://www.netflixprize.com) was giving out $1 million for a more accurate recommendation engine powered by data science. But at that time, I didn't really feel like knowing more about it, because it was 'nerdy' to me back then, and finance is **the thing** for me. 
+<br>
+I started thinking about data science as one of my alternate career paths after the 2008 subprime crisis, which, to some extent, pushed me away from pursuing a career as a ~~pure~~ finance guy because of the highly streeful work environment and extremely low job security. Therefore, I took my time and thought about what I really wanted to do in my life, and I came up with an evaluation matrix for my dream job:
 
 | | Low Business Acumen | High Business Acumen
 |---|---|---|
-| Low Technical Savvy | Not well paid | Low Job Security |
-| High Technical Savvy | Not interested | Exactly what I want |
+| **Low Technical Savvy** | Not well paid | Low Job Security |
+| **High Technical Savvy** | Not interested | Exactly what I want |
 
 ## introduction
 
