@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="400" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" alt="Awesome">
+	<img width="300" src="https://drive.google.com/open?id=0B39NTirW67BxNTdlQ0J1b0RJR2c" alt="Awesome">
 	<br>
 	<br>
 </h1>
@@ -7,14 +7,6 @@
 <br>
 <br>
 <br>
-
-<p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
-</p>
-
 
 *A repo for Shiyang Feng's data science projects*
 
