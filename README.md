@@ -28,13 +28,17 @@ I started thinking about data science as one of my alternate career paths after 
 
 ## introduction
 
-*This is a central repo for Shiyang Feng's data science project. It serves as a review of finished project and as a reflection on my path to become a data scientist. I will, in this repo, document each project's code and results using Jupyter Notebook. I will keep updating this repo, and you are welcome to fork and create your own branch. **Python 2x is used for all projects***
+This is a central repo for Shiyang Feng's data science project. It serves as a review of finished project and as a reflection on my path to become a data scientist. I will, in this repo, document each project's code and results using Jupyter Notebook. I will keep updating this repo, and you are welcome to fork and create your own branch.
 
-First of all, Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts. Our favorite data scientist is [Clare Corthell](https://twitter.com/clarecorthell). She is an expert in data-related systems and a hacker, and has been working on a company as a data scientist. [Clare's blog](http://datasciencemasters.org/). This web site helps you to understand the exact way to study as a professional data scientist.
+When it comes to data science, one of the outstanding questions is **What is Data Science?**, and one of the most elaborative answer I found myself strongly resonate to is given by *Pronojit Saha* on [Quora](https://hail-data.quora.com/What-is-Data-Science). Saha clearly draws out the workflow of a data scientist on a high level, and he gives out a 5-step process for a data science project to be hypothesis-driven:
 
-Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/) library has full functionality for collecting and analyzing data. We use [Anaconda](https://www.continuum.io/downloads) to play with data and to create applications. 
+1. Asking right questions
+2. Defining data needs
+3. Identifying and implementing analysis on data
+4. Communicating findings
+5. Automating step 2 to 4
 
-This is the [Guide](https://github.com/okulbilisim/awesome-datascience/blob/master/DataScience-Life-Cycle.md) to begin a **Data Science** project.
+Throughout the carryout of all my data science projects, I strictly stick to the 5-step development process to keep my documents organized (step 5 is missing in prototyping). The programming language I used for all my projects is *Python 2.7*. [Here](http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html) I'll bring up the unceasing discussion on **Which one is better? R or Python?**
 
 ## Infographic
 
