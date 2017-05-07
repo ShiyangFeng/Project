@@ -5,11 +5,11 @@
 
 ### Table of contents
 
-* [SelfIntroduction](#selfintro)
-* [Introduction](#introduction)
-* [Infographic](#infographic)
+* [SelfIntroduction](#Self-intro)
+* [Introduction](#Introduction)
+* [Project](#Project)
     
-## selfintro
+## Self-intro
 
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" /> &nbsp;&nbsp;&nbsp;[<img src="http://www.free-icons-download.net/images/linkedin-logo-icon-65542.png" width="100" height = "100" />](https://www.linkedin.com/in/shiyangfeng/) &nbsp; [<img src="http://www.logoeps.com/wp-content/uploads/2011/05/twitter_-logo.gif" width="100" height="100" />](https://twitter.com/ShiyangFeng) [<img src="http://logok.org/wp-content/uploads/2015/10/Medium-logo-2015-logotype-1024x768.png" width="100" height="100" />](https://medium.com/@shiyang.feng1)
 
@@ -32,7 +32,7 @@ On the other hand, my previous experiences in different organizations playing di
 
 Data scientists, whose primary responsibility is to come up with right questions and answer them using different skills and tools requires exactly a combination of business acumen and technical savvy. That's why I decided to pursur a career as a data scientist.
 
-## introduction
+## Introduction
 
 This is a central repo for Shiyang Feng's data science project. It serves as a review of finished project and as a reflection on my path to become a data scientist. I will, in this repo, document each project's code and results using Jupyter Notebook. I will keep updating this repo, and you are welcome to fork and create your own branch.
 
@@ -46,9 +46,9 @@ When it comes to data science, one of the outstanding questions is **What is Dat
 
 Throughout the carryout of all my data science projects, I strictly stick to the 5-step development process to keep my documents organized (step 5 is missing in prototyping). The programming language I used for all my projects is *Python 2.7*. [Here](http://www.kdnuggets.com/2015/05/r-vs-python-data-science.html) I'll bring up the unceasing discussion on **Which one is better? R or Python?**
 
-## Infographic
+## Project
 
-Preview | Description
+Project | Description
 ------------ | -------------
 [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png) | A visual guide to Becoming a Data Scientist in 8 Steps by [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
 [<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png) | Mindmap on required skills ([img](http://i.imgur.com/FxsL3b8.png))
