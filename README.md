@@ -11,7 +11,7 @@
     
 ## selfintro
 
-<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" /> [<img src="https://brand.linkedin.com/etc/designs/linkedin/katy/global/clientlibs/img/default-share.png" width="150" height = "100" />](https://www.linkedin.com/in/shiyangfeng/) [<img src="http://www.logoeps.com/wp-content/uploads/2011/05/twitter_-logo.gif" width="100" height="100" />](https://twitter.com/ShiyangFeng) [<img src="http://www.underconsideration.com/brandnew/archives/medium_logo_detail.png" width="50" height="100" />](https://medium.com/@shiyang.feng1)
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAvyAAAAJDg4Nzc4NjBkLWU1M2QtNGYyOS05NmQ5LTAwYTFiMzM5M2NmNg.jpg" width="150" /> [<img src="https://brand.linkedin.com/etc/designs/linkedin/katy/global/clientlibs/img/default-share.png" width="150" height = "100" />](https://www.linkedin.com/in/shiyangfeng/) [<img src="http://www.logoeps.com/wp-content/uploads/2011/05/twitter_-logo.gif" width="100" height="100" />](https://twitter.com/ShiyangFeng) [<img src="http://logok.org/wp-content/uploads/2015/10/Medium-logo-2015-logotype-1024x768.png" width="50" height="100" />](https://medium.com/@shiyang.feng1)
 
 Hi there! My name is Shiyang Feng, welcome to my repo! I'm a recent Master graduate from NYU with a concentration on database technology, and also an alumini from General Assembly's Data Science Immersive program (Here's my [GA Profile](https://profiles.generalassemb.ly/shiyangfeng)). 
 
