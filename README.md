@@ -24,7 +24,13 @@ I started thinking about data science as an alternate career paths after the 200
 | **Low Technical Savvy** | Not well paid | Low Job Security |
 | **High Technical Savvy** | Not interested | Exactly what I want! |
 
-In my viewpoint, a mix of technical savvy and business acumen will give me a competitive advantage in job market. My education background and previous experiecne of leading student organizations gave me exactly what I need to thrive as a data scientist. On one hand, finishing my master degree in database technology at NYU and General Assembly's 12-week immersive trainning program on data science prepared me on the technical side of the job, which is not just about the skills needed for the job, but also the ability to extent my knowledge base on my own. On the other hand, my previous experiences of leading student organizations and running my own startup enable me to think strategically and give me a basic understanding of how business works and how an organizational structure is formed. Therefore, a data science job that requires a combination of these two skills is my dream job.
+In my viewpoint, a mix of technical savvy and business acumen will keep me competitive long enough, and my dream is exactly like that. In order to land my dream job, I'm actively preparing myself. 
+
+On one hand, finishing my master degree in database technology at NYU and General Assembly's 12-week immersive trainning program on data science prepare me on the technical side of the job, which is not just about the skills needed for the job, but also the ability to extent my knowledge base on my own. 
+
+On the other hand, my previous experiences in different organizations playing different roles enable me to think strategically to create values for businesses.
+
+Data scientists, whose primary responsibility is to come up with right questions and answer them using different skills and tools requires exactly a combination of business acumen and technical savvy. That's why I decided to pursur a career as a data scientist.
 
 ## introduction
 
